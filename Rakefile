@@ -6,7 +6,7 @@ begin
   Jeweler::Tasks.new do |gem|
     gem.name = "vip"
     gem.summary = %Q{Gives your app IP whitelist access control (and not those chumps not on the vIP list).}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.description = %Q{longer description of your gem}
     gem.email = "randall.chin@gmail.com"
     gem.homepage = "http://github.com/caveman/vip"
     gem.authors = ["rchin"]
